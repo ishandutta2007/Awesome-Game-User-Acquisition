@@ -43,9 +43,9 @@ The following commercial SaaS solutions and Mobile Measurement Partners are sort
 
 ## 🔓 Open-Source GitHub Projects
 
-Curated open-source projects for self-hosted event tracking, privacy-first mobile analytics, deep linking, and custom attribution pipelines. Sorted by **GitHub Stars (Descending)**.
+Curated open-source projects for self-hosted event tracking, privacy-first mobile analytics, deep linking, and custom attribution pipelines. Sorted by **GitHub_Stars (Descending)**.
 
-| Repository 📦 | GitHub Stars ⭐ | Description & UA Use Case 🛠️ |
+| Repository 📦 | GitHub_Stars ⭐ | Description & UA Use Case 🛠️ |
 | :--- | :--- | :--- |
 | **[PostHog](https://github.com/PostHog/posthog)** 🦔 | [![Stars](https://img.shields.io/github/stars/PostHog/posthog?style=social&color=white)](https://github.com/PostHog/posthog/stargazers) | Open-source product analytics, feature flags, and event tracking platform. |
 | **[Plausible Analytics](https://github.com/plausible/analytics)** 🌐 | [![Stars](https://img.shields.io/github/stars/plausible/analytics?style=social&color=white)](https://github.com/plausible/analytics/stargazers) | Lightweight, privacy-first open analytics for tracking web conversion funnels. |
